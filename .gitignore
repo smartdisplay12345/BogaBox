@@ -1,3 +1,6 @@
 .gradle
 .idea
 local.properties
+/keystore_boga.jks
+/private_key.pepk
+/app/release

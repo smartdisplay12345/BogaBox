@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">보가박스</string>
+    <string name="welcome_to_installer">보가박스 설정앱입니다.</string>
+    <string name="info_uninstall">이미 앱이 설치되어 있으면 먼저 제거해 주세요.</string>
+    <string name="select_apk_to_install">설치할 앱을 선택해 주세요.</string>
+
+    <string name="install_auto">안드로이드 오토 설치 및 업데이트</string>
+    <string name="set_auto">안드로이드 오토 설정</string>
+    <string name="set_auto_message">연결된 기기 -> Android Auto 실행해주세요.</string>
+    <string name="install_universal">Fermata Universal 설치</string>
+    <string name="install_control">Fermata Control 설치</string>
+    <string name="remove_universal">Fermata Universal 제거</string>
+    <string name="remove_control">Fermata Control 제거</string>
+    <string name="remove">제거</string>
+    <string name="manual">설정안내</string>
+</resources>
